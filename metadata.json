@@ -1,0 +1,5 @@
+{
+  "name": "Unsupervised Learning Explorer",
+  "description": "An interactive, browser-based tool for exploring unsupervised learning algorithms like k-Means, PCA, UMAP, and Autoencoders on classic datasets. Features didactic animations and a sleek, modern interface to build intuition about data preprocessing, model training, and evaluation.",
+  "requestFramePermissions": []
+}
